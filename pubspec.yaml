@@ -1,7 +1,7 @@
 name: np_plug
 description: Flutter Carousel Widget for Nature Images.
 version: 0.0.1
-homepage:
+homepage: https://github.com/debiprasaddash-tech/np_plug.git
 
 environment:
   sdk: ">=2.17.1 <3.0.0"

@@ -1,39 +1,23 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<img src="https://fancycrave.com/wp-content/uploads/2019/12/Free-Nature-Pictures-min.jpg" width="300" title="Images like " />
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+# Braze Flutter SDK
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+Effective marketing automation is an essential part of successfully scaling and managing your business. [Braze](https://www.braze.com/) empowers you to build better customer relationships through a seamless, multi-channel approach that addresses all aspects of the user life cycle on an ongoing basis.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This project contains the [Braze plugin](https://pub.dev/packages/braze_plugin), a specialized package that allows integrators to use certain Braze APIs from Flutter app code written in Dart.
 
-## Features
+### Getting Started
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+For information about using this package, [please reference the Braze documentation here](https://www.braze.com/docs/developer_guide/platform_integration_guides/flutter/flutter_sdk_integration/).
 
-## Getting started
+### Support
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Please reach out to support@braze.com regarding any questions or issues.
 
-## Usage
+### Sample App
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+The `/example` folder contains a sample app illustrating how to integrate and use this package's APIs.
 
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+### Requirements
+- Dart SDK 2.0.0+
+- Flutter SDK 1.10.0+
