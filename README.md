@@ -18,3 +18,7 @@ The `/example` folder contains a sample app illustrating how to integrate and us
 ### Requirements
 - Dart SDK 2.0.0+
 - Flutter SDK 1.10.0+
+
+### Usage
+
+Minimal Example:np_plug()
