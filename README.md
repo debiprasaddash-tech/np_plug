@@ -1,18 +1,15 @@
 <img src="https://fancycrave.com/wp-content/uploads/2019/12/Free-Nature-Pictures-min.jpg" width="300" title="Images like " />
 
-# Braze Flutter SDK
+# np_plug for carousel SDK
 
-Effective marketing automation is an essential part of successfully scaling and managing your business. [Braze](https://www.braze.com/) empowers you to build better customer relationships through a seamless, multi-channel approach that addresses all aspects of the user life cycle on an ongoing basis.
+Effective marketing automation is an essential part of successfully scaling and managing your business. [Ntt](https://www.nettantra.com/) empowers you to build better customer relationships through a seamless, multi-channel approach that addresses all aspects of the user life cycle on an ongoing basis.
 
-This project contains the [Braze plugin](https://pub.dev/packages/braze_plugin), a specialized package that allows integrators to use certain Braze APIs from Flutter app code written in Dart.
+This project contains the [ np_plug](https://www.nettantra.com/), a specialized package that allows integrators to use certain Braze APIs from Flutter app code written in Dart.
 
-### Getting Started
-
-For information about using this package, [please reference the Braze documentation here](https://www.braze.com/docs/developer_guide/platform_integration_guides/flutter/flutter_sdk_integration/).
 
 ### Support
 
-Please reach out to support@braze.com regarding any questions or issues.
+Please reach out to support@ntt.com regarding any questions or issues.
 
 ### Sample App
 
