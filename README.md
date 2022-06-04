@@ -21,9 +21,5 @@ The `/example` folder contains a sample app illustrating how to integrate and us
 
 ### Usage
 
-<<<<<<< HEAD
-Minimal Example:np_plug()
-=======
 Minimal Example:
 np_plug();
->>>>>>> 77d7fdc78df835dca1c40e76d27b88c0ac267cb3
